@@ -31,6 +31,9 @@
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello%20-%23EDE9FF.svg?&style=flat-square&logo=trello&logoColor=black)
 
+---
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunchillara)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **varunchillara/varunChillara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
