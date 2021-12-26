@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Varun ! 
 
-- I'm currently employed as a Software Engineering Immersive Resident at HackReactor 🏛. 
+- I'm currently employed as a Software Engineer @ Fetch Rewards 🐶. 
 - I'm a passionate learner who is also community driven. I love to teach and learn from others 💡. 
 - I love to learn new technologies and use them to solve problems ✨. 
 
